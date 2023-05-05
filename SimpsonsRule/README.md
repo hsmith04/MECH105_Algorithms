@@ -13,5 +13,5 @@ ____________________<br>
 
 **Example:**<br>
 Use Simpson's 1/3 rule to calculate the integral of the given data set<br>
-Simpson(1 2 3 4 5 6 , 6 9 13 16 12 3)
+Simpson(1 2 3 4 5 6 , 6 9 13 16 12 3)<br>
 ____________________<br>
